@@ -17,12 +17,9 @@ i
 8
 9
 10
-<<<<<<< Updated upstream
 20
 21
 22
-=======
 l
 m
 n
->>>>>>> Stashed changes
