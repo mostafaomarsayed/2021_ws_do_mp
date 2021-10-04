@@ -1,4 +1,5 @@
 Coursework.md
+<<<<<<< Updated upstream
 2
 3
 4
@@ -8,11 +9,30 @@ Coursework.md
 8
 9
 10
+=======
+>>>>>>> Stashed changes
 
 
 
 
 
+<<<<<<< Updated upstream
+=======
+
+
+
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+>>>>>>> Stashed changes
 
 
 
