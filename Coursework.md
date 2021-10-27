@@ -219,4 +219,3 @@ Frederic Laloux (2014) - An illustrated Invitation
 https://reinventingorganizationswiki.com
 
 https://www.denkmodell.de/reinventing-organizations/
-----
