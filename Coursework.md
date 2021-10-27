@@ -204,8 +204,7 @@ Do you think that the TEAL Approach has the potential to be the future of reinve
 
 Frederic Laloux (2014) - Reinventing Organisations
 
-Frederic Laloux (2014)
-Reinventing Organisation - An illustrated Invitation
+Frederic Laloux (2014) - An illustrated Invitation
 
 https://reinventingorganizationswiki.com
 
