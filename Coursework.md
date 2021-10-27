@@ -117,4 +117,4 @@ For centuries, mankind lived in the Infrared and Magenta paradigms. The concepts
 * ##### FAVI
 * ##### Buurtzorg
 
-----
+---
