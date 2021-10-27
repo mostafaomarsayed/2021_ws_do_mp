@@ -29,6 +29,20 @@ Evolution of Human Consciousness
 -----
 There is 7 key paradigms in the evolution of human consciousness and organizational models.
 
+#### <span style="color:purple">REACTIVE-INFRARED</span>
+
+#### <span style="color:magenta">MAGIC-MAGENTA</span>
+
+#### <span style="color:red">IMPULSIVE-RED</span>
+ 
+#### <span style="color:Gold">CONFORMIST-AMBER</span> 
+
+#### <span style="color:Orange">ACHIEVEMENT-ORANGE</span> 
+
+#### <span style="color:Green">PLURALISTIC-GREEN</span> 
+
+#### <span style="color:Teal">EVOLUTIONARY-TEAL</span>
+
 ---
 
 <span style="color:purple">REACTIVE-INFRARED</span> AND <span style="color:magenta">MAGIC-MAGENTA</span> PARADIGMS
