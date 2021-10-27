@@ -13,7 +13,17 @@
 
 1. Introduction
 1. Evolution of Human Consciousness
+1. Deep-dive in TEAL
 
+   a. Self-Management
+
+   b. Wholeness
+
+   c. Evolutionary Purpose
+
+   d. Best Practise
+
+1. Outlook
 
 ---
 
