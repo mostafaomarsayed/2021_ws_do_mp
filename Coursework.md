@@ -138,15 +138,14 @@ For centuries, mankind lived in the Infrared and Magenta paradigms. The concepts
 <span style="color:Gray">*Problem:*</span>
 
 * Leaders in complex organizations experience stress, mistrust 
-* They often cant grasp the whole range of projects because of little information
-* People without power can experience resentfulness and resignation
+* They often cant grasp the whole range of projects 
+* People without power can experience resignation
 
 <span style="color:Gray">*Solution:*</span>
 
-* Self Managing Teams, that act like mini Organizations (10-20 People)
+* Self Managing Teams, that act like mini Organizations
 * No Bosses/Hierarchies, Job titles
-* Decision Making as a Unit
-* Defined Conlfict Solution Process
+* Decision Making as a Unit and Conflict Solution
 
 
 ---
@@ -165,7 +164,6 @@ People can be themselves and unlock their true potential
 * No need to worry about bosses, politics
 * Creation of reflective spaces
 * Trust and connections through Storytelling
-* Personal Development
 
 ----
 
