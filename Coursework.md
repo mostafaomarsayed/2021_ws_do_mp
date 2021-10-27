@@ -173,11 +173,13 @@ People can be themselves and unlock their true potential
 * Ego driven gets replaced by purpose driven
 * Makes a difference in the community or market
 
-*“profit is like the air we breathe. We need air to live, but we don’t live to breathe“ – Frederic Laloux*
-
 ---
 
-<span style="color:#FFF0F5">**Best Practise**</span>
+*“profit is like the air we breathe. We need air to live, but we don’t live to breathe“ – Frederic Laloux*
+
+----
+
+<span style="color:#FF4500">**Best Practise**</span>
 -----
 
 Buurtzorg
@@ -189,14 +191,14 @@ Same 2 nurses for a patitient
 * They form intimate connections and help their patients form a network
 * 40% less prescribed doctor hours
 
-----
+---
 
 <span style="color:#FFA07A">**Outlook**</span>
 -----
 
 Do you think that the TEAL Approach has the potential to be the future of reinventing organizations?
 
----
+----
 
 
 **Sources**
