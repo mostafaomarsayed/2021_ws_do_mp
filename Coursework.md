@@ -109,6 +109,10 @@ Greens believe that life is more than just success or failure. They value relati
 
 ----
 
+<img src="TEAL.PNG" alt="drawing" width="5000"/>
+
+---
+
 <span style="color:Teal">EVOLUTIONARY-TEAL</span> PARADIGM
 -----
 For centuries, mankind lived in the Infrared and Magenta paradigms. The concepts of “human resources” and “management” only surfaced in recent years. This means that we’re changing paradigms at an increasingly faster rate. We’re about to enter the next stage of human consciousness that corresponds with the “self-actualizing” level of Maslow’s hierarchy of needs.
@@ -207,3 +211,4 @@ Reinventing Organisation - An illustrated Invitation
 https://reinventingorganizationswiki.com
 
 https://www.denkmodell.de/reinventing-organizations/
+----
