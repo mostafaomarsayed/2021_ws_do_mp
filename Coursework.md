@@ -99,7 +99,7 @@ About 4,000 years ago, there was a shift to agriculture, institutions and organi
 
 <span style="color:Orange">ACHIEVEMENT-ORANGE</span> PARADIGM
 -----
-This paradigm gave birth to many of our modern resource-allocation, appraisal and incentive systems.It’s built on the belief that individuals should be free to challenge the rules and do what’s the most effective to achieve success.Innovation is the key to staying ahead.Orange Organizations are dynamic and growth-oriented, but tend to operate like _soulless_ machines.
+This paradigm gave birth to many of our modern resource-allocation, appraisal and incentive systems. It’s built on the belief that individuals should be free to challenge the rules and do what’s the most effective to achieve success.Innovation is the key to staying ahead.Orange Organizations are dynamic and growth-oriented, but tend to operate like _soulless_ machines.
 **Examples:**
 * ##### Multinational companies
 * ##### Charter schools
@@ -193,10 +193,9 @@ People can be themselves and unlock their true potential
 Buurtzorg
 
 -> Dutch Nursing Organization
-* Got created by Jos de blok because of bad nurse and patient practises enforced by the dutch government
-* Teams of 10-12 Nurses that manage themeslves
-Same 2 nurses for a patitient
-* They form intimate connections and help their patients form a network
+* Got created by Jos de blok because of bad nurse and patient practises
+* Teams of 10-12 Nurses that manage themselves
+* They form intimate connections and network
 * 40% less prescribed doctor hours
 
 ---
